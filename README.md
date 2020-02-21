@@ -14,7 +14,16 @@ One of the most important tasks to improve businesses is exploring the relations
 
 ## Files description
 Starbucks data includes three datasets:
-Profile dataset containing data about the customers.
-Portfolio dataset containing data about the offers
-Transacript dataset containing data about the events (either offers or transactions)
+- Profile dataset containing data about the customers.
+- Portfolio dataset containing data about the offers
+- Transacript dataset containing data about the events (either offers or transactions)
 
+## Results
+Some of the most intersting analysis are:
+- Most of the transactions are done without paying attention to the offers
+- Most of the offers are received or viewed but not completed
+- BOGO and discount offers are the most common types of offers
+- BOGO offers are more likely to be viewed than discount offers, but discount offers are actually more likely to be completed than BOGO offers.
+- Offers with 10 rewards are viewed more than those of rewards 2, but offers with 2 rewards are completed than those of 10 rewards.
+- The amount that customers usually pay increases linearly by increasing the customers incomes.
+- Female customers are more likely to complete the offers they view.
